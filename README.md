@@ -67,7 +67,7 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114867331-9f685b00-9e2f-11eb-9dbc-4a3dff24f249.png">
 <br>
 
-<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822793-8fd01e80-9dfd-11eb-8a9e-8e129775be65.png">
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114869931-86ad7480-9e32-11eb-8cb1-2aef7c5255bc.png">
 <br>
 
  + 로그인 후 상품에 대한 후기를 남길 수 있습니다. (유효성 검사 : 제목, 내용이 공백이면 작성하라는 메시지 출력 )
