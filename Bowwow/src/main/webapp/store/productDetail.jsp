@@ -315,11 +315,15 @@
 	 }
 	 
 	 function chkBtn(){
-	       if(document.getElementById('revTitle').value == ""){
+		 
+		 var title = $("input:text[id='revTitle']");
+		 var message = $("textarea[id='message']");
+		 
+	       if(title.val().trim() == ""){
 	            alert("제목을 입력해 주세요.");
 	            return false;
 	        }
-	       if(document.getElementById('message').value == ""){
+	       if(message.val().trim() == ""){
 	            alert("내용을 입력해주세요");
 	            return false;
 	        }
