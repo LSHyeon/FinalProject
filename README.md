@@ -15,7 +15,7 @@
 # :mega: 목차
 ### 1. [개요](https://github.com/LSHyeon/FinalProject/blob/main/README.md#one-개요)
 
-### 2. [담당모듈](https://github.com/LSHyeon/FinalProject/blob/main/README.md#two-개요)
+### 2. [담당모듈](https://github.com/LSHyeon/FinalProject/blob/main/README.md#two-담당모듈)
 
 ### 3. [개발환경]
 
