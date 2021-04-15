@@ -41,13 +41,13 @@
  + 반려동물 상품을 최신 상품, MD 추천 핫한 상품으로 나누어 10개씩 보여줍니다.
  
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114862075-09c9cd00-9e29-11eb-82e2-97c4d970b993.png">
-<hr>
-<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114860958-996e7c00-9e27-11eb-84f0-94d99202a59b.png">
+<br>
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114862748-de93ad80-9e29-11eb-9ca2-3015a016241e.png">
 
 ### 2. 카테고리별 상품 표시 및 페이징처리
  + 반려동물 상품을 카테고리별로 확인 할 수 있습니다.
 
-<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114821450-8d6cc500-9dfb-11eb-89ec-f052bee66619.png">
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114863848-40084c00-9e2b-11eb-9fbf-d3ec7157458f.png">
 <br>
 
 ### 3. 상품 검색 및 페이징처리
