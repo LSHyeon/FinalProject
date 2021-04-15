@@ -19,7 +19,7 @@
 
 ### 3. [개발환경](https://github.com/LSHyeon/FinalProject/blob/main/README.md#three-개발환경)
 
-### 4. [분석 및 설계 과정]
+### 4. [분석 및 설계 과정](https://github.com/LSHyeon/FinalProject/blob/main/README.md#four-분석-및-설계-과정)
 
 
 <br>
@@ -126,7 +126,27 @@
  + IDE : Eclipse
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114880834-633bf700-9e3d-11eb-8366-98ee84f0af33.png">
 <br>
+<br>
 
+
+## :four: 분석 및 설계 과정
+
+#### 1. 주제 선정 이유
+ - 1인 가구의 증가에 따른 반려동물 관심 증가
+ - 반려동물 정보 공유와 상품 구매를 동시에 만족시키는 사이트 제공을 위함
+ - 조원의 공통 관심사를 반영, 모두가 동의함
+ 
+#### 2. 업무 분석
+ - 플로우 차트 작성
+ - 요구사항 명세서 작성
+ - 요구사항 관리대장 작성
+
+#### 3. 화면 분석
+ - 관련된 사이트를 찾아보며 회의
+
+#### 4. 설계
+ - AWS의 RDS를 사용하므로 DB가 통합되어 DB 추가, 수정, 삭제한 부분을 공유하기 위해 DB 테이블 정의서 작성
+ - UI디자인을 통해 미리 기능, 화면등을 만들고 각 화면별 기능을 설명란에 작성
 
 
 
