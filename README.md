@@ -43,6 +43,8 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114820432-ef2c2f80-9df9-11eb-8718-419883092d9f.png">
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114820501-0b2fd100-9dfa-11eb-95db-74c48b464272.png">
 
+### 2. 카테고리별 상품 표시 및 페이징처리
+
 
 
 
