@@ -1,4 +1,4 @@
-# :cat: BOW-WOW (반려동물 커뮤니티 & 쇼핑몰)
+# :cat: BOW-WOW (반려동물 커뮤니티 & 쇼핑몰) :dog:
 
 <a href="http://bowwow.ml/store/storeMain"><img width="1792px" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114862179-2cf47c80-9e29-11eb-9914-48f131d82ca4.png"></a>
 <b>[이미지를 누르시면 홈페이지로 이동합니다.] (사용한 아이디 : lsh4415, 비밀번호 : tmdgus12@)</b>
