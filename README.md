@@ -38,7 +38,7 @@
 ## :two: 담당모듈
 
 ### 1. 상품 메인 페이지(storeMain.jsp)
- + 반려동물 상품을 최신 상품, MD 추천 핫한 상품으로 나누어 10개씩 보여줍니다.
+ + 반려동물 상품을 최신 상품, MD 추천 핫한 상품으로 나누어 8개씩 보여줍니다.
  
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114862075-09c9cd00-9e29-11eb-82e2-97c4d970b993.png">
 <br>
