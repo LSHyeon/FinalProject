@@ -13,7 +13,7 @@
 <br>
 
 # :mega: 목차
-### 1. [개요](#https://github.com/LSHyeon/FinalProject/blob/main/README.md#one-개요)
+### 1. [개요](https://github.com/LSHyeon/FinalProject/blob/main/README.md#one-개요)
 
 ### 2. [담당업무]
 
