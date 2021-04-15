@@ -43,6 +43,7 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114862075-09c9cd00-9e29-11eb-82e2-97c4d970b993.png">
 <br>
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114862748-de93ad80-9e29-11eb-9ca2-3015a016241e.png">
+<br>
 
 ### 2. 카테고리별 상품 표시 및 페이징처리
  + 반려동물 상품을 카테고리별로 확인 할 수 있습니다.
@@ -50,6 +51,7 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114863848-40084c00-9e2b-11eb-9fbf-d3ec7157458f.png">
 <br>
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114865059-b8bbd800-9e2c-11eb-8f5f-a4a1ae8bda1a.png">
+<br>
 
 ### 3. 상품 검색 및 페이징처리
  + 반려동물 상품을 검색 할 수 있습니다.
@@ -57,14 +59,12 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114866506-9d51cc80-9e2e-11eb-9730-85e7211ff5fd.png">
 <br>
 
-
 ### 4. 상품 상세 페이지
  + 상품 수량에 문자, 0, 공백이 들어올 수 없고 수량을 변경하는 순간 상품금액에 반영됩니다.
  + 로그인후 장바구니, 바로구매를 이용 할 수 있습니다.
  + 장바구니에 같은 상품을 담을 경우 이미 같은 상품이 있다는 메세지가 출력됩니다.
 
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822009-65319600-9dfc-11eb-8d54-45c0d4ca5d09.png">
-<br>
 <br>
 
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822793-8fd01e80-9dfd-11eb-8a9e-8e129775be65.png">
