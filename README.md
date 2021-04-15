@@ -81,7 +81,7 @@
  + 상품 수량 수정이 가능합니다.
  + 전체선택, 전체선택 해제가 가능합니다 (전체 선택 중 하나라도 해제가 되면 전체선택 체크해제, 상품전체가 체크되면 전체선택 자동체크)
 
-<img width="861" alt="스크린샷" src="(https://user-images.githubusercontent.com/73806316/114872584-721eab80-9e35-11eb-9257-bb9cfd2405da.png">
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114872584-721eab80-9e35-11eb-9257-bb9cfd2405da.png">
 <br>
 
 
