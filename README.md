@@ -1,6 +1,6 @@
 # :cat2: BOW-WOW (반려동물 커뮤니티 & 쇼핑몰)
 
-<a href="http://bowwow.ml/store/storeMain"><img width="1792px" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114815651-9bb5e380-9df1-11eb-8050-86c4dfc4f5a9.png"></a>
+<a href="http://bowwow.ml/store/storeMain"><img width="1792px" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114862179-2cf47c80-9e29-11eb-9914-48f131d82ca4.png"></a>
 <b>[이미지를 누르시면 홈페이지로 이동합니다.] (사용한 아이디 : lsh4415, 비밀번호 : tmdgus12@)</b>
 <br/><br/>
 
@@ -40,8 +40,9 @@
 ### 1. 상품 메인 페이지(storeMain.jsp)
  + 반려동물 상품을 최신 상품, MD 추천 핫한 상품으로 나누어 10개씩 보여줍니다.
  
-<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114820432-ef2c2f80-9df9-11eb-8718-419883092d9f.png">
-<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114820501-0b2fd100-9dfa-11eb-95db-74c48b464272.png">
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114862075-09c9cd00-9e29-11eb-82e2-97c4d970b993.png">
+<hr>
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114860958-996e7c00-9e27-11eb-84f0-94d99202a59b.png">
 
 ### 2. 카테고리별 상품 표시 및 페이징처리
  + 반려동물 상품을 카테고리별로 확인 할 수 있습니다.
