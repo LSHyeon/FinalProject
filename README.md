@@ -44,7 +44,29 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114820501-0b2fd100-9dfa-11eb-95db-74c48b464272.png">
 
 ### 2. 카테고리별 상품 표시 및 페이징처리
+ + 반려동물 상품을 카테고리별로 확인 할 수 있습니다.
 
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114821450-8d6cc500-9dfb-11eb-89ec-f052bee66619.png">
+<br>
+
+### 3. 상품 검색 및 페이징처리
+ + 반려동물 상품을 검색 할 수 있습니다.
+
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114821796-11bf4800-9dfc-11eb-8136-3309e4eaa0b8.png">
+<br>
+
+### 4. 상품 상세 페이지
+ + 상품 수량에 문자, 0, 공백이 들어올 수 없고 수량을 변경하는 순간 상품금액에 반영됩니다.
+ + 로그인후 장바구니, 바로구매를 이용 할 수 있습니다.
+ + 장바구니에 같은 상품을 담을 경우 이미 같은 상품이 있다는 메세지가 출력됩니다.
+
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822009-65319600-9dfc-11eb-8d54-45c0d4ca5d09.png">
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822793-8fd01e80-9dfd-11eb-8a9e-8e129775be65.png">
+<br>
+
+ + 로그인 후 상품에 대한 후기를 남길 수 있습니다. (제목, 내용이 공백이면 )
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822257-bd689800-9dfc-11eb-8878-a75b6c3dc745.png">
+<br>
 
 
 
