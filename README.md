@@ -99,6 +99,9 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114875957-cbd4a500-9e38-11eb-92e1-23ec9691a1ef.png">
 <br>
 
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114876652-7c42a900-9e39-11eb-8bf6-2dc72c91a42e.png">
+<br>
+
 
 
 
