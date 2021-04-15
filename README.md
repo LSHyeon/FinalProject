@@ -87,6 +87,33 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114873267-13a5fd00-9e36-11eb-8edf-9e88e11bcf3f.png">
 <br>
 
+### 5. 주문 페이지
+ + 주문 페이지로 이동시 구매 할 샹품정보가 화면에 표시됩니다.
+ + 핸드폰번호, 주소를 작성하지 않거나, 동의 체크박스를 모두 체크하지 않으면 메세지가 출력됩니다.
+ + 주소는 kakaoMap 을 사용하였습니다.
+ + 결제하기를 누르게 되면 결제내역 페이지로 이동합니다.
+
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114874754-967b8780-9e37-11eb-85e0-e00165937a3f.png">
+<br>
+
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114875957-cbd4a500-9e38-11eb-92e1-23ec9691a1ef.png">
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
