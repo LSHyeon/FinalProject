@@ -117,6 +117,13 @@
 
 
 ## :three: 개발환경
+ + Laguage : Java
+ + Back-end : Spring Framework 4.3.16.RELEASE / MyBatis / Apache Tomcat
+ + Front : BootStrap / HTML / CSS / jQuery / Ajax / JSP
+ + Database : Oracle DB
+ + Servers : AWS(EC2, S3, RDS, VPC)
+ + VCS tool : GitHub
+ + IDE : Eclipse
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114880834-633bf700-9e3d-11eb-8366-98ee84f0af33.png">
 <br>
 
