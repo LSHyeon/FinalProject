@@ -17,7 +17,7 @@
 
 ### 2. [담당모듈](https://github.com/LSHyeon/FinalProject/blob/main/README.md#two-담당모듈)
 
-### 3. [개발환경](https://github.com/LSHyeon/FinalProject/blob/main/README.md#-개발환경)
+### 3. [개발환경](https://github.com/LSHyeon/FinalProject/blob/main/README.md#three-개발환경)
 
 ### 4. [분석 및 설계 과정]
 
