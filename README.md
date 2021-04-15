@@ -49,12 +49,14 @@
 
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114863848-40084c00-9e2b-11eb-9fbf-d3ec7157458f.png">
 <br>
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114865059-b8bbd800-9e2c-11eb-8f5f-a4a1ae8bda1a.png">
 
 ### 3. 상품 검색 및 페이징처리
  + 반려동물 상품을 검색 할 수 있습니다.
 
-<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114821796-11bf4800-9dfc-11eb-8136-3309e4eaa0b8.png">
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114866506-9d51cc80-9e2e-11eb-9730-85e7211ff5fd.png">
 <br>
+
 
 ### 4. 상품 상세 페이지
  + 상품 수량에 문자, 0, 공백이 들어올 수 없고 수량을 변경하는 순간 상품금액에 반영됩니다.
