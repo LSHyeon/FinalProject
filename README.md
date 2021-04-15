@@ -101,6 +101,19 @@
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114875957-cbd4a500-9e38-11eb-92e1-23ec9691a1ef.png">
 <br>
 
+### 6. 주문 내역 페이지
+ + 주문 내역페이지에서는 로그인 한 아이디로 지금까지 구매한 주문내역을 보여줍니다.
+ + 주문번호 클릭 시 주문상세내역으로 이동합니다.
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114877461-40f4aa00-9e3a-11eb-8e9f-40e738245f8c.png">
+<br>
+
+### 7. 주문 내역 페이지
+ + 주문상세내역 페이지에서는 사용자가 선택한 주문상세정보를 보여줍니다.
+ + 주문 취소가 가능합니다. (배송전 상품 한정)
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114878762-89f92e00-9e3b-11eb-8a59-f9051f4ff983.png">
+<br>
+
+
 
 
 
