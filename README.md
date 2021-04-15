@@ -64,14 +64,14 @@
  + 로그인후 장바구니, 바로구매를 이용 할 수 있습니다.
  + 장바구니에 같은 상품을 담을 경우 이미 같은 상품이 있다는 메세지가 출력됩니다.
 
-<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822009-65319600-9dfc-11eb-8d54-45c0d4ca5d09.png">
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114867331-9f685b00-9e2f-11eb-9dbc-4a3dff24f249.png">
 <br>
 
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822793-8fd01e80-9dfd-11eb-8a9e-8e129775be65.png">
 <br>
 
- + 로그인 후 상품에 대한 후기를 남길 수 있습니다. (제목, 내용이 공백이면 )
-<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114822257-bd689800-9dfc-11eb-8878-a75b6c3dc745.png">
+ + 로그인 후 상품에 대한 후기를 남길 수 있습니다. (유효성 검사 : 제목, 내용이 공백이면 작성하라는 메시지 출력 )
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114868881-5dd8af80-9e31-11eb-9850-89108654c3ee.png">
 <br>
 
 
