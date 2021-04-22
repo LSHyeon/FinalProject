@@ -119,9 +119,9 @@
 
 
 ## :three: 개발환경
- + Laguage : Java
- + Back-end : Spring Framework 4.3.16.RELEASE / MyBatis / Apache Tomcat
- + Front : BootStrap / HTML / CSS / jQuery / Ajax / JSP
+ + Laguage : Java jdk1.8
+ + Back-end : Spring Framework 4.3.16.RELEASE / MyBatis / Apache Tomcat8.5.61
+ + Front : BootStrap / HTML5 / CSS / jQuery / Ajax / JSP
  + Database : Oracle DB
  + Servers : AWS(EC2, S3, RDS, VPC)
  + VCS tool : GitHub
