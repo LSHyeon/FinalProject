@@ -68,7 +68,12 @@
  + 장바구니에 같은 상품을 담을 경우 이미 같은 상품이 있다는 메세지가 출력됩니다.
 
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114867331-9f685b00-9e2f-11eb-9dbc-4a3dff24f249.png">
+<img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/115990147-bf043e00-a5fc-11eb-833d-c13ed9df174a.png">
+ + 상품 수량의 경우 체크해주어야 할 값들이 많아 고민을 많이 하였고, 해결방법으로 정규식을 사용하여 수량에 숫자만 들어오도록 체크, 문자가 들어올경우 "" 빈문자열 반환,
+ + 또한 수량에 빈문자열이나 0이 들어올시 1을 반환하여 값이 들어오지 않도록 하였습니다.
 <br>
+
+
 
 <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/114869931-86ad7480-9e32-11eb-8cb1-2aef7c5255bc.png">
 <br>
