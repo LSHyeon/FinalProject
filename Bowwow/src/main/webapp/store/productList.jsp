@@ -127,9 +127,7 @@
 																				<a href="detail?p_id=${list.p_id }">${list.p_name }</a>
 																			</h6>
 																			<h5>
-																				<fmt:formatNumber value="${list.price }"
-																					pattern="#,###" />
-																				원
+																				<fmt:formatNumber value="${list.price }" pattern="#,###" />원
 																			</h5>
 																		</div>
 																	</div>
