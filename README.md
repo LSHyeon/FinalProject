@@ -86,12 +86,12 @@
  <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/115990566-e78d3780-a5fe-11eb-8eb4-ad3722d854aa.png">
  <br>
 
- + 2. form데이터를 받아 동일한 제품이 있는지 controller 에서 체크 후 메시지와 code값 반환
+ + 2. form 데이터를 받아 동일한 제품이 있는지 controller 에서 체크 후 메시지와 code값 반환
 
  <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/115990650-59658100-a5ff-11eb-9ae4-230fa4426fd8.png">
  <br>
 
- + 3. 코드값에 따라 다른 메시지 출력
+ + 3. 코드값에 장바구니에 제품이 담길지 체크, 메시지 출력
 
  <img width="861" alt="스크린샷" src="https://user-images.githubusercontent.com/73806316/115990595-15727c00-a5ff-11eb-9191-a9b4720c0d5d.png">
  <br>
